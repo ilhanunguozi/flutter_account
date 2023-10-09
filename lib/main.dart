@@ -116,7 +116,7 @@ class App extends StatelessWidget {
                         seq: 0,
                       ),
                       CurrencyCard(
-                        currencyName: 'Won',
+                        currencyName: 'WOW',
                         currencyCode: 'WON',
                         amount: '827,029,128,124',
                         cardBgColor: Colors.white,
